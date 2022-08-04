@@ -20,3 +20,5 @@
 # Link download MovaviVideoConverter: https://github.com/Rossy-Muhamad/apk/blob/main/MovaviVideoConverterSetupC_Wcu82g5_.exe?raw=true
 
 # Link download winx-hd-converter-deluxe : https://github.com/Rossy-Muhamad/apk/blob/main/winx-hd-converter-deluxe.exe?raw=true
+
+# Link Downlaoad telegram setup: https://bitbucket.org/berry-berton/aplication/raw/6218a30ed88788d62f9e43f7130b810b45468b77/tsetup-x64.4.0.2.rar
