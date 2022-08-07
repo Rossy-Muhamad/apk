@@ -23,7 +23,7 @@
 
 # Link Downlaoad telegram setup: https://bitbucket.org/berry-berton/aplication/raw/6218a30ed88788d62f9e43f7130b810b45468b77/tsetup-x64.4.0.2.rar
 
-# Link Downlaoad Avidemux_2 :  https://bitbucket.org/berry-berton/aplication/raw/8e3e879e03d221d4e0ece6cd907b07c2d5cc1429/Avidemux_2.8.0VC%2B%2B64bits.rar
+# Link Downlaoad Avidemux_2 :  https://github.com/Rossy-Muhamad/apk/blob/main/Avidemux_2.8.0VC++64bits.exe?raw=true
 
 # Link Downlaoad winrar: https://bitbucket.org/berry-berton/aplication/raw/8e3e879e03d221d4e0ece6cd907b07c2d5cc1429/winrar-x64-611.rar
 
